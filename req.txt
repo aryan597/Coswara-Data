@@ -1,0 +1,26 @@
+# Audprocessing
+librosa==0.9.2
+
+# Data manipulation and analysis
+numpy==1.21.5
+pandas==1.4.2
+
+# Machine learning
+scikit-learn==1.0.2
+imbalanced-learn==0.9.0
+
+# Visualization
+matplotlib==3.5.2
+seaborn==0.11.2
+
+# Dimensionality reduction
+umap-learn==0.5.3
+
+# Parallel processing
+joblib==1.1.0
+
+# Progress bars
+tqdm==4.64.0
+
+# Debugging (optional, remove if not needed)
+ipython==8.3.0
